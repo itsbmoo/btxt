@@ -1,2 +1,2 @@
-# btxt
-.btxt
+# .btxt
+## Beautiful TXT
