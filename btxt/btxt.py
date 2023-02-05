@@ -1,7 +1,7 @@
 import os
 import sys
 import colorama
-from btxt.core.lexer import Lexer
+from core.lexer import Lexer
 
 colorama.init(autoreset=True)
 
